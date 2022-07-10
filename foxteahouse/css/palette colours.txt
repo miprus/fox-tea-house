@@ -1,0 +1,64 @@
+Greens (from dark to light):
+2e4600
+598234 (p)
+486b00 / 5c821a
+-------------
+7caa2d
+98c01c
+8eba43 (p)
+a5c05b (p)
+
+Yellows (-/-):
+f9dc24
+
+Oranges (-/-):
+c05805
+cb6318
+---------------
+eb8a44 (p)
+
+Greys (-/-):
+eae2d5
+867666
+524a3a
+fffae1
+
+------------
+dark green for borders
+5c7944
+
+light green for highlighting
+abcb42
+
+yellow - pastell
+FAE45B
+
+orange
+FEC456
+
+r
+f35001
+
+
+----------Palette-light----------
+Background
+fffae1 
+
+Nav
+2e4600 / f9dc24 / a5c05b
+
+Button
+eb8a44 / f9dc24 
+
+Footer
+524a3a
+
+----------Palette-darak----------
+Background
+524a3a 
+
+Nav
+c05805 / eb8a44 / f9dc24 / a5c05b
+
+Footer
+fffae1
