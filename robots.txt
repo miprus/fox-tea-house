@@ -1,0 +1,7 @@
+Sitemap: http://michalpruszkowski.com/sitemap.xml
+User-agent: *
+Dissallow: admin_panel.php
+Dissallow: /php/
+Dissallow: /js/
+Dissallow: /library/
+Disallow: sitemap.xml
