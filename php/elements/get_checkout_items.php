@@ -112,7 +112,7 @@
 				<input type="hidden" name="cmd" value="_cart">
 				<input type="hidden" name="upload" value="1">
 				<input type="hidden" name="business" value="sb-pj4pk1252949@business.example.com">
-				<input type="hidden" name="return" value="http://michalpruszkowski.com/confirmation.php">
+				<input type="hidden" name="return" value="https://fox-tea-house.herokuapp.com/confirmation.php">
 				<input type="hidden" name="address_override" value="0">
 				<input type="hidden" name="currency_code" value="GBP">
 				<input type="submit" class="btn" name="pay_now" value="Pay with PayPal">
